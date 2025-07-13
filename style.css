@@ -1,4 +1,4 @@
-/* Reset & Base */
+
 * {
   margin: 0;
   padding: 0;
@@ -18,7 +18,7 @@ body {
   padding: 40px 20px;
 }
 
-/* Hero Section */
+
 .hero {
   background: url('Hero-bg.png') no-repeat center;
   background-size: cover;
@@ -64,7 +64,7 @@ body {
   display: inline-block;
 }
 
-/* Preview Section */
+
 .preview-section {
   display: flex;
   justify-content: center;
@@ -141,7 +141,7 @@ body {
   margin: 0;
 }
 
-/* Reviews Section */
+
 .reviews {
   background: #f6f9ff;
   text-align: center;
@@ -183,7 +183,7 @@ body {
 
 
 
-/* Contact Section */
+
 .contact-container {
   display: flex;
   justify-content: center;
@@ -238,7 +238,7 @@ form button:hover {
   background-color: #4338ca;
 }
 
-/* Footer */
+
 .footer {
   background-color: #ffffff;
   text-align: center;
